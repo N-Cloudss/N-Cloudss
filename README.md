@@ -6,7 +6,7 @@ I'm electrical engineering student at Universitas Indonesia. Interested in machi
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jolexanzs9_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jonathanalexander9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joowww19) 
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-4B6BFB?style=for-the-badge) ![Roboflow](https://img.shields.io/badge/Roboflow-Dataset%20Pipeline-6706CE?style=for-the-badge&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-4B6BFB?style=for-the-badge) ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=Roboflow&logoColor=fff)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=N-Cloudss&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
